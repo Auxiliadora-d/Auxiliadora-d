@@ -1,7 +1,8 @@
 Olá 👋, meu nome é Auxiliadora
 
 Sou Estudante  de TI
-Tecnólogo em Logística
+
+Graduada em Logística
 - 🌱 Atualmente estou aprendendo Python
 - 📫 Como entrar em contato comigo? auxiliadorad17@gmail.com
 
