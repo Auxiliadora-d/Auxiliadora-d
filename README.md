@@ -8,12 +8,10 @@ Estou constantemente buscando novos desafios e oportunidades para expandir meu c
 <br />
 <br />
 
+🌱 Aprendendo Python
 
+🎓 Graduada em Logística
 
-**Graduada em Logística** 
-
-
-🌱 Atualmente estou aprendendo Python
 
 📫 Como entrar em contato comigo? liad609@gmail.com  |  auxiliadorad17@gmail.com    
 
