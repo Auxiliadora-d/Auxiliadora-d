@@ -3,14 +3,12 @@
 
 
  <h2>Sobre mim</h2> 
-Estudante de Gestão da tecnologia da informação. 
 Estou constantemente buscando novos desafios e oportunidades para expandir meu conhecimento e habilidades.
 <br />
 <br />
 
-🌱 Aprendendo Python
-
-🎓 Graduada em Logística
+🎓 Tecnólogo em Logística - PUC MINAS<br>
+🎓 Técnico em Informática - COTEMIG
 
 
 📫 Como entrar em contato comigo? liad609@gmail.com  |  auxiliadorad17@gmail.com    
