@@ -12,8 +12,8 @@
   </ul>
   
 <h3 style="color: darkgreen;">🛠️ Tecnologias & Ferramentas</h3>
-      <p>- Python </p>
-     <p> - SQL </p>
+       <p>- Python </p>
+       <p> - SQL </p>
      
 <h3 style="color: darkgreen;">📫 Como entrar em contato comigo?</h3>
 <p style="color: #444;">
