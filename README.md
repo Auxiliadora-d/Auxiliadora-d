@@ -1,4 +1,4 @@
-<div style="background-color: #f0f8ff; padding: 20px; border-radius: 10px;">
+<div style="background-color: #020617; padding: 20px; border-radius: 10px;">
 <h1 align="center" style="color: teal;">Olá! Eu sou a Auxiliadora 👋</h1>
 
 <h2 style="color: darkorange;">Sobre mim</h2>
