@@ -11,7 +11,7 @@
   <li>📊 <strong>Foco em dados, automação e desenvolvimento de soluções </strong></li>
   </ul>
   
-<h3 style="color: darkgreen;">🛠️ Tecnologias & Ferramentas</h3>
+<ul style="color: darkgreen;">🛠️ Tecnologias & Ferramentas</ul>
      <li> <strong>Python </strong></li>
      <li> <strong>SQL </strong></li>
      
