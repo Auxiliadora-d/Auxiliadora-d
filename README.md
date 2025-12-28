@@ -1,3 +1,4 @@
+<div style="background-color: #f0f8ff; padding: 20px; border-radius: 10px;">
 <h1 align="center" style="color: teal;">Olá! Eu sou a Auxiliadora 👋</h1>
 
 <h2 style="color: darkorange;">Sobre mim</h2>
@@ -12,8 +13,8 @@
   </ul>
   
 <h3 style="color: darkgreen;">🛠️ Tecnologias & Ferramentas</h3>
-       <p>- Python </p>
-       <p> - SQL </p>
+       <p> 🐍Python </p>
+       <p> 🗄️SQL </p>
      
 <h3 style="color: darkgreen;">📫 Como entrar em contato comigo?</h3>
 <p style="color: #444;">
@@ -26,6 +27,7 @@
   <a href="https://www.linkedin.com/in/auxiliadora-divina-a1b2203b/">
     <img src="https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn" />
   </a>
+</div>
 </div>
 
 
