@@ -6,8 +6,8 @@
 </p>
 
 <ul style="color: #555; line-height: 1.6;">
-  <li>🎓 <strong>Tecnólogo em Logística</strong> - <em>PUC MINAS</em></li>
-  <li>💻 <strong>Tecnólogo em Logística e Técnico em Informática </strong> - <em>PUC MINAS</em></li>
+  <li>🎓 <strong> Pos-Graduação em Engenharia de Dados </strong></li>
+  <li>💻 <strong>Tecnólogoa em Logística e Técnica em Informática </strong></li>
   </ul>
 
 <h3 style="color: darkgreen;">📫 Como entrar em contato comigo?</h3>
