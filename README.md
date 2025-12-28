@@ -10,11 +10,9 @@
   <li>💻 <strong>Tecnóloga em Logística e Técnica em Informática </strong></li>
   <li>📊 <strong>Foco em dados, automação e desenvolvimento de soluções </strong></li>
   </ul>
-
 <h3 style="color: darkgreen;">🛠️ Tecnologias & Ferramentas</h3>
-- Python
-- SQL
-
+<li>- Python</li>
+<li>- SQL</li>
 <h3 style="color: darkgreen;">📫 Como entrar em contato comigo?</h3>
 <p style="color: #444;">
   liad609@gmail.com  |  auxiliadorad17@gmail.com
