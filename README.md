@@ -12,9 +12,8 @@
   </ul>
   
 <h3 style="color: darkgreen;">🛠️ Tecnologias & Ferramentas</h3>
-     <li> <strong>Python </strong></li>
-     <li> <strong>SQL </strong></li>
-      <li>🎓 <strong> Pos-Graduação em Engenharia de Dados </strong></li>
+      <li> <strong> Python </strong></li>
+      <li> <strong> SQL </strong></li>
      
 <h3 style="color: darkgreen;">📫 Como entrar em contato comigo?</h3>
 <p style="color: #444;">
