@@ -7,8 +7,8 @@
 
 <ul style="color: #555; line-height: 1.6;">
   <li>🎓 <strong>Tecnólogo em Logística</strong> - <em>PUC MINAS</em></li>
-  <li>🎓 <strong>Técnico em Informática</strong> - <em>COTEMIG</em></li>
-</ul>
+  <li>💻 <strong>Tecnólogo em Logística e Técnico em Informática </strong> - <em>PUC MINAS</em></li>
+  </ul>
 
 <h3 style="color: darkgreen;">📫 Como entrar em contato comigo?</h3>
 <p style="color: #444;">
