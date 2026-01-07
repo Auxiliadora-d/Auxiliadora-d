@@ -7,7 +7,7 @@
 </p>
 
 <ul style="color: #555; line-height: 1.6;">
-  <li>🎓 <strong> Pos-Graduação em Engenharia de Dados </strong></li>
+  <li>🎓 <strong> Pos-Graduando em Engenharia de Dados </strong></li>
   <li>💻 <strong>Tecnóloga em Logística e Técnica em Informática </strong></li>
   <li>📊 <strong>Foco em dados, automação e desenvolvimento de soluções </strong></li>
   </ul>
